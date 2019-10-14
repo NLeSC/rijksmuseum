@@ -1,9 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1571052091 "rijksMuseum.tex" "rijksMuseum.pdf" "rijksMuseum" 1571052098
+["pdflatex"] 1571053492 "rijksMuseum.tex" "rijksMuseum.pdf" "rijksMuseum" 1571053492
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1480098701 1288 655e228510b4c2a1abe905c368440826 ""
-  "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1480098701 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1480098733 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1480098733 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2018/texmf-dist/tex/latex/base/report.cls" 1523050425 22882 dde2f6d94552c7d0da323ba0661350b5 ""
@@ -12,9 +11,9 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1546863086 4220279 8d7670152acbedb047b97c423eaf338f ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "rijksMuseum.aux" 1571052092 89 9ee26b202f3203bc63f859ebf36f17f7 ""
-  "rijksMuseum.tex" 1571052098 101 1b39e1fbb73de5c397911468ba6cd6fb ""
+  "rijksMuseum.aux" 1571053492 31 a9779a0b8d1c26749263a3df1d885788 ""
+  "rijksMuseum.tex" 1571053492 920 7203d1a242ff3eba5a4f9117169f5d48 ""
   (generated)
-  "rijksMuseum.aux"
   "rijksMuseum.pdf"
+  "rijksMuseum.aux"
   "rijksMuseum.log"

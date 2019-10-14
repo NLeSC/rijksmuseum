@@ -13,7 +13,6 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT rijksMuseum.aux
 INPUT rijksMuseum.aux
 OUTPUT rijksMuseum.aux
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 OUTPUT rijksMuseum.pdf
 INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
