@@ -1,0 +1,15 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'rijksMuseum.blg'
+[35] biber-darwin:313> INFO - === Mon Oct 14, 2019, 13:49:06
+[56] Biber.pm:371> INFO - Reading 'rijksMuseum.bcf'
+[136] Biber.pm:857> INFO - Found 1 citekeys in bib section 0
+[148] Biber.pm:3976> INFO - Processing section 0
+[159] Biber.pm:4136> INFO - Looking for bibtex format file 'references.bib' for section 0
+[160] bibtex.pm:1500> INFO - LaTeX decoding ...
+[163] bibtex.pm:1316> INFO - Found BibTeX data source 'references.bib'
+[190] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[191] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[191] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[191] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[196] bbl.pm:617> INFO - Writing 'rijksMuseum.bbl' with encoding 'UTF-8'
+[197] bbl.pm:720> INFO - Output to rijksMuseum.bbl

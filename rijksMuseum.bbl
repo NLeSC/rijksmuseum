@@ -1,0 +1,66 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Mensink2014}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ffc3c50f7f2f5814db998defff4b2ccd}{%
+           family={Mensink},
+           familyi={M\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=dcebae96a84ceb352bebdc9c5a88342f}{%
+           family={{Van Gemert}},
+           familyi={V\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{439499683dd4fdd630b255a54c4f933d}
+      \strng{fullhash}{439499683dd4fdd630b255a54c4f933d}
+      \strng{bibnamehash}{439499683dd4fdd630b255a54c4f933d}
+      \strng{authorbibnamehash}{439499683dd4fdd630b255a54c4f933d}
+      \strng{authornamehash}{439499683dd4fdd630b255a54c4f933d}
+      \strng{authorfullhash}{439499683dd4fdd630b255a54c4f933d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper offers a challenge for visual classification and content-based retrieval of artistic content. The challenge is posed from a museum-centric point of view offering a wide range of object types including paintings, photographs, ceramics , furniture, etc. The freely available dataset consists of 112,039 photographic reproductions of the artworks exhibited in the Rijksmuseum in Amsterdam, the Netherlands. We offer four automatic visual recognition challenges consisting of predicting the artist, type, material and creation year. We include a set of baseline results, and make available state-of-the-art image features encoded with the Fisher vector. Progress on this challenge improves the tools of a museum curator while improving content-based exploration by online visitors of the museum collection.}
+      \field{isbn}{9781450327824}
+      \field{title}{{The Rijksmuseum Challenge: Museum-Centered Visual Recognition}}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1145/2578726.2578791
+      \endverb
+      \verb{file}
+      \verb :Users/adithyavijaykumar/Library/Application Support/Mendeley Desktop/Downloaded/Mensink, Van Gemert - 2014 - The Rijksmuseum Challenge Museum-Centered Visual Recognition(2).pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1145/2578726.2578791
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1145/2578726.2578791
+      \endverb
+      \keyw{Art dataset,Cultural Heritage,image classification}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
