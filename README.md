@@ -1,1 +1,1 @@
-# Document about the rijksmuseum project
+# Document describing the potential collaboration with the rijksmuseum
